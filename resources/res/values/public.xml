@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="drawable" name="googhack_logo" id="2130837504" />
+    <public type="drawable" name="ic_blog" id="2130837505" />
+    <public type="drawable" name="ic_info" id="2130837506" />
+    <public type="drawable" name="ic_launcher" id="2130837507" />
+    <public type="drawable" name="ic_rate" id="2130837508" />
+    <public type="layout" name="first_time_info" id="2130903040" />
+    <public type="layout" name="main" id="2130903041" />
+    <public type="string" name="app_name" id="2130968576" />
+    <public type="string" name="s_googhacks_search" id="2130968577" />
+    <public type="string" name="s_search_options" id="2130968578" />
+    <public type="string" name="i_msg_thanks" id="2130968579" />
+    <public type="string" name="i_msg_howto" id="2130968580" />
+    <public type="string" name="i_msg_h1" id="2130968581" />
+    <public type="string" name="i_msg_h2" id="2130968582" />
+    <public type="string" name="i_msg_h3" id="2130968583" />
+    <public type="string" name="i_msg_h4" id="2130968584" />
+    <public type="string" name="i_msg_tips" id="2130968585" />
+    <public type="string" name="i_msg_t1" id="2130968586" />
+    <public type="string" name="i_msg_t2" id="2130968587" />
+    <public type="string" name="i_msg_t3" id="2130968588" />
+    <public type="string" name="i_msg_t4" id="2130968589" />
+    <public type="string" name="info" id="2130968590" />
+    <public type="string" name="blog" id="2130968591" />
+    <public type="string" name="rate" id="2130968592" />
+    <public type="array" name="sa_search_options" id="2131034112" />
+    <public type="array" name="sa_search_values" id="2131034113" />
+    <public type="menu" name="menu" id="2131099648" />
+    <public type="id" name="main" id="2131165184" />
+    <public type="id" name="tv_googhacks_search" id="2131165185" />
+    <public type="id" name="tv_googhacks_search_string" id="2131165186" />
+    <public type="id" name="sp_search_options" id="2131165187" />
+    <public type="id" name="btn_googhack_search" id="2131165188" />
+    <public type="id" name="info" id="2131165189" />
+    <public type="id" name="blog" id="2131165190" />
+    <public type="id" name="rate" id="2131165191" />
+</resources>

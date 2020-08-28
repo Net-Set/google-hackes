@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/i_msg_thanks"/>
+    <TableLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=""/>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/i_msg_howto"/>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/i_msg_h1"/>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/i_msg_h2"/>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/i_msg_h3"/>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/i_msg_h4"/>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text=""/>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/i_msg_tips"/>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/i_msg_t1"/>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/i_msg_t2"/>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/i_msg_t3"/>
+        </TableRow>
+        <TableRow android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/i_msg_t4"/>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

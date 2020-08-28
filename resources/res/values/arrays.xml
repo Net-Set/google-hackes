@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sa_search_options">
+        <item>Music</item>
+        <item>Images</item>
+        <item>eBooks and PDFs</item>
+        <item>Text Files</item>
+        <item>Compressed Files</item>
+        <item>Other</item>
+    </array>
+    <array name="sa_search_values">
+        <item>-html -htm -php -shtml -opendivx -md5 -md5sums -mp3free4 -xxx intitle:Index.of +mp3</item>
+        <item>-html -htm -php -shtml -opendivx -md5 -md5sums -xxx intitle:index.of +(gif|jpeg|jpg|png|bmp|tif|tiff)</item>
+        <item>-html -htm -php -shtml -opendivx -md5 -md5sums -xxx intitle:index.of +(/ebook|/ebooks|/book|/books) +(chm|pdf)</item>
+        <item>-html -htm -php -shtml -opendivx -md5 -md5sums -xxx intitle:index.of +(txt|rtf)</item>
+        <item>-html -htm -php -shtml -opendivx -md5 -md5sums -xxx intitle:index.of +(zip|rar)</item>
+    </array>
+</resources>

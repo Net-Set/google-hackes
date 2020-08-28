@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kick</string>
+    <string name="s_googhacks_search">GoogHacks Search</string>
+    <string name="s_search_options">Choose a GoogHack...</string>
+    <string name="i_msg_thanks">Thank you for trying Kick</string>
+    <string name="i_msg_howto">Quick How-To:</string>
+    <string name="i_msg_h1">► Choose the file type you wish to search for from the dropbox.</string>
+    <string name="i_msg_h2">► Type a short search phrase and click Search!</string>
+    <string name="i_msg_h3">► Tap through the first few results and you should find your file or song.</string>
+    <string name="i_msg_h4">► Tap the filename to view/hear it, or touch and hold on the filename to save it to your device.</string>
+    <string name="i_msg_tips">Tips:</string>
+    <string name="i_msg_t1">► Fewer keywords in your search phrase usually gives better results.</string>
+    <string name="i_msg_t2">► Feel free to add your own, custom filters when searching.</string>
+    <string name="i_msg_t3">► Press your Menu button for added options and links.</string>
+    <string name="i_msg_t4">► Leave a comment if you like GoogHacks Lite or have a suggestion!</string>
+    <string name="info">INFO</string>
+    <string name="blog">BLOG</string>
+    <string name="rate">RATE</string>
+</resources>

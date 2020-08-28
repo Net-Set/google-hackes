@@ -1,0 +1,66 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: res/drawable-mdpi/ic_rate.png
+SHA1-Digest: S+fpOSgSqjROuc3lVKDYpfynfyA=
+
+Name: res/menu/menu.xml
+SHA1-Digest: uw7oL+oqoUHhHV/j7WLtz3L005Q=
+
+Name: res/drawable-mdpi/ic_blog.png
+SHA1-Digest: KsScxkrXGod8CIzOycguRuk5uto=
+
+Name: res/drawable-hdpi/ic_launcher.png
+SHA1-Digest: Vj/qhxk8ic8FE0/kT6E3vgRJ4mE=
+
+Name: res/drawable-ldpi/ic_blog.png
+SHA1-Digest: OHrEeSTMFpEyWNg62b9BOp4ajU0=
+
+Name: resources.arsc
+SHA1-Digest: mngazCgzQT3pKLXTXBuVee0MfbU=
+
+Name: classes.dex
+SHA1-Digest: P7Dhn3thJB3fQ2XVNoPV/OYFxRQ=
+
+Name: res/drawable-ldpi/ic_launcher.png
+SHA1-Digest: i7vxaosoiS+9HzKB7ZgIsXMYRLY=
+
+Name: res/layout/first_time_info.xml
+SHA1-Digest: pQAOH1JL7pxH/mIDsa/iz/NW+fk=
+
+Name: res/layout/main.xml
+SHA1-Digest: WYqEeasO11QUHc6YrjJjqZMHhUo=
+
+Name: res/drawable-hdpi/ic_info.png
+SHA1-Digest: dBUQIAt0wNFyHNbtevDLzsq2lbk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: IJfPohMi1GCPWImPQ909IJRSo48=
+
+Name: res/drawable-mdpi/ic_launcher.png
+SHA1-Digest: 7Ft/Rirt+l/JRX2KjDREScdbCZk=
+
+Name: res/drawable-ldpi/ic_rate.png
+SHA1-Digest: Rjitb8ZkkMqh48pensa59jlFf5E=
+
+Name: res/drawable-hdpi/ic_blog.png
+SHA1-Digest: fkeLvFYGVpGeegI+LqQt2rYr2s8=
+
+Name: res/drawable-hdpi/googhack_logo.png
+SHA1-Digest: RDW1167E+1GlfjGVYmQkGldtDpI=
+
+Name: res/drawable-hdpi/ic_rate.png
+SHA1-Digest: N8CUnzfSvYQtHDGaHaxKj177VI4=
+
+Name: res/drawable-mdpi/ic_info.png
+SHA1-Digest: m6GitZWNdTcyCyjED93/tSHvCT8=
+
+Name: res/drawable-mdpi/googhack_logo.png
+SHA1-Digest: mQCskMUOXwE3VNqa28WehwkaDao=
+
+Name: res/drawable-ldpi/ic_info.png
+SHA1-Digest: RlYwPKuX7FscE6MYa54TXGnh68I=
+
+Name: res/drawable-ldpi/googhack_logo.png
+SHA1-Digest: eNeQcb4XH4yiSZq1tSiFuha23k8=
+
